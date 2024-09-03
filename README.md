@@ -1,11 +1,12 @@
 # Inception-Of-Things
-Getting started with Kubernetes
+Getting started with the container orchestration tool Kubernetes.
 
-Learning how to use Vagrant, K3S, K3D and Argo CD.
-Three example usage of these tools in collaboration with [@Chelo](https://github.com/mariav7) and [@Daniel](https://github.com/DanielAlejandro2605).
+Learning how to use Vagrant, K3S, K3D and Argo CD through three example usage of these tools.
+This project was done in collaboration with [@Chelo](https://github.com/mariav7) and [@Daniel](https://github.com/DanielAlejandro2605).
 
 ## Part 1: K3s and Vagrant
 Installation of k3s in 2 virtual machines : one server and one Service Worker set up with Vagrant.
+
 ### Usage
 Requirements :\
 Create a new /confs/.env in p1 with ```TOKEN=yourcustomtoken``` before launching ```vagrant up```
